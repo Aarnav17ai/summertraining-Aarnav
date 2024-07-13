@@ -8,7 +8,7 @@ public class Loops {
                 System.out.println(i);
                 i++;
             }
-
+        
             
         }
     }
